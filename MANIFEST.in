@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_Cura2xEngine/templates *
+recursive-include octoprint_Cura2xEngine/translations *
+recursive-include octoprint_Cura2xEngine/static *
